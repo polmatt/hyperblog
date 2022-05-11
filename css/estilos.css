@@ -29,22 +29,9 @@ body
 
 #container #tagline
 {
-<<<<<<< HEAD
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8;
-
-
-}
-#post
-{
-    background-color: antiquewhite;
-}
-=======
     font-size: 20px;
     
 }
 #articulo
 {font-size: large;
 font-family: fantasy;}
->>>>>>> footer
