@@ -29,13 +29,9 @@ body
 
 #container #tagline
 {
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8;
-
-
+    font-size: 20px;
+    
 }
-#post
-{
-    background-color: antiquewhite;
-}
+#articulo
+{font-size: large;
+font-family: fantasy;}
